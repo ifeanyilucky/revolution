@@ -84,7 +84,8 @@ button.show-me {
 
 
 .section-tweeet {
-        background-color: rgba(108,99,255,.1)
+        background-color: rgba(108,99,255,.1);
+        padding-bottom:40px;
 }
 .twitter-section {
                         background-color:rgba(108, 99, 255, 0.1);
@@ -154,4 +155,7 @@ footer {
 .footer-right {
                 text-align:right;
                 margin-top:40px;
+}
+.tweet-container {
+                        margin-bottom: 40px;
 }
