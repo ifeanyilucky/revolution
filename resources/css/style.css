@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+* {
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+         
+        font-family: 'Montserrat'!important;
+}
+
+#navbarSupportedContent    {
+        background-color:white;
+        color:black;
+}
+
+.navbar {
+        background-color:white;
+
+}
+
+.
+
+
+.col-6 {
+                        padding-top:30px;
+
+}
+
+div.hero {
+                        margin-top:110px;
+
+}
+
+button.show-me {
+                        background-color: #007bff;
+                        color:white;
+                        padding:8px 10px;
+                        border:none;
+                        border-radius:5px;
+}
+.logo-icon {
+                        color:#007bff;
+                        font-weight: bolder;
+                        height: 30px;
+                        width: 30px;
+                        background-color:white;
+        
+}
+.container {
+                        /* background-color:white; */
+                        padding-top:40px;
+                        
+}
+.bg-light {
+                        background-color:white;
+}
+
+.square {
+                        height:130px;
+                        background-color:#007bff;
+        
+}
+.show-me:hover {
+                        background-color:blue;
+}
+ .card-decker {
+                        background-color: darkgray;
+}
+.paragraph {
+                        text-align:center;
+}
+.heading2 {
+                        text-align:center;
+                        margin-bottom:50px;
+}
+.post {
+                        margin-bottom:50px;
+                        text-align:center;
+}
+
+
+.section-tweeet {
+        background-color: rgba(108,99,255,.1)
+}
+.twitter-section {
+                        background-color:rgba(108, 99, 255, 0.1);
+}
+
+.sub-text {
+                        font-weight:80px;
+                        font-size:25px;
+                        margin-bottom:50px;
+                        text-align:center;
+}
+h3.sub-para {
+                        
+                        text-align:center;    
+}
+.show-me {
+                        
+                        text-align:center;
+                        
+}
+.twitter {
+                        vertical-align:middle;
+                        text-align:center;
+                        justify-content:center;
+}
+.section-tell {
+        background-color: rgba(108, 99, 255, 0.1);
+        padding-top: 50px;
+        padding-bottom: 40px;
+}
+
+           
+
+.square {
+        height:180px;
+}
+.tell-friend {
+        
+        padding-top: 50px;
+        padding-bottom: 40px;
+}
+
+.footer-container {
+       
+        padding:40px;
+               
+}
+footer {
+        color: white;
+        
+        background-color: rgba(0, 0, 0, 0.8);
+}
+.sec-image {
+        width: 4rem;
+        height: 4rem;
+      
+}
+
+.image-block  {
+       /* width: 100%; */
+       text-align: center;
+}
+.post-container {
+                background-color:rgba(0, 0, 0, 0.8);
+
+}
+.footer-right {
+                text-align:right;
+                margin-top:40px;
+}
