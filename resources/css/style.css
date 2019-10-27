@@ -2,24 +2,24 @@
 
 
 * {
-    margin: 0; 
-    padding: 0;
-    box-sizing: border-box;
+                        margin: 0; 
+                        padding: 0;
+                        box-sizing: border-box;
 
 }
 
 body {
          
-        font-family: 'Montserrat'!important;
+                        font-family: 'Montserrat'!important;
 }
 
 #navbarSupportedContent    {
-        background-color:white;
-        color:black;
+                        background-color:white;
+                        color:black;
 }
 
 .navbar {
-        background-color:white;
+                        background-color:white;
         
         
 
@@ -116,58 +116,57 @@ h3.sub-para {
                         justify-content:center;
 }
 .section-tell {
-        background-color: rgba(108, 99, 255, 0.1);
-        padding-top: 50px;
-        padding-bottom: 40px;
+                        background-color: rgba(108, 99, 255, 0.1);
+                        padding-top: 50px;
+                        padding-bottom: 40px;
 }
 
            
 
 .square {
-        height:180px;
+                        height:180px;
 }
 .tell-friend {
         
-        padding-top: 50px;
-        padding-bottom: 40px;
+                        padding-top: 50px;
+                        padding-bottom: 40px;
 }
 
 .footer-container {
        
-        padding:40px 40px 0px 40px;
+                        padding:40px 40px 0px 40px;
                
 }
 footer {
-        color: white;
-        
-        background-color: rgba(0, 0, 0, 0.8);
+                        color: white;
+                        background-color: rgba(0, 0, 0, 0.8);
 }
 .sec-image {
         
-        height: 4rem;
+                        height: 4rem;
       
 }
 
 .image-block  {
-       /* width: 100%; */
-       text-align: center;
+                        /* width: 100%; */
+                        text-align: center;
 }
 .post-container {
-                background-color:rgba(0, 0, 0, 0.8);
+                        background-color:rgba(0, 0, 0, 0.8);
 
 }
 .footer-right {
-                text-align:right;
-                margin-top:40px;
+                        text-align:right;
+                        margin-top:40px;
 }
 .tweet-container {
                         margin-bottom: 40px;
 }
 .navbar-brand {
-                font-size:30px;
-                font-weight:80px;
+                        font-size:30px;
+                        font-weight:80px;
 }
 .card-down{
-                background-color:white;
+                        background-color:white;
                 
 }
