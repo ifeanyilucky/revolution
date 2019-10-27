@@ -19,6 +19,8 @@ body {
 
 .navbar {
         background-color:white;
+        
+        
 
 }
 
@@ -48,6 +50,7 @@ button.show-me {
                         height: 30px;
                         width: 30px;
                         background-color:white;
+                        margin-right:0;
         
 }
 .container {
@@ -84,8 +87,8 @@ button.show-me {
 
 
 .section-tweeet {
-        background-color: rgba(108,99,255,.1);
-        padding-bottom:40px;
+                        background-color: rgba(108,99,255,.1);
+                        padding-bottom:40px;
 }
 .twitter-section {
                         background-color:rgba(108, 99, 255, 0.1);
@@ -130,7 +133,7 @@ h3.sub-para {
 
 .footer-container {
        
-        padding:40px;
+        padding:40px 40px 0px 40px;
                
 }
 footer {
@@ -139,7 +142,7 @@ footer {
         background-color: rgba(0, 0, 0, 0.8);
 }
 .sec-image {
-        width: 4rem;
+        
         height: 4rem;
       
 }
@@ -158,4 +161,12 @@ footer {
 }
 .tweet-container {
                         margin-bottom: 40px;
+}
+.navbar-brand {
+                font-size:30px;
+                font-weight:80px;
+}
+.card-down{
+                background-color:#007bff;
+                
 }
