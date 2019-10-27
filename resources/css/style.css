@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
+
 * {
     margin: 0; 
     padding: 0;
@@ -167,6 +168,6 @@ footer {
                 font-weight:80px;
 }
 .card-down{
-                background-color:#007bff;
+                background-color:white;
                 
 }
