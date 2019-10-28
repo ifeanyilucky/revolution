@@ -47,6 +47,15 @@
                         .digital {
                                 width:100%;
                         }
+                        .eligible-button {
+                                margin-top:25px;
+                                padding-left:38%;
+                                
+                        }
+                        .votable {
+                                                text-align:center;
+                                                font-size:30px;
+                        }
 
     
   }

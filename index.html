@@ -34,6 +34,9 @@
                     <li class="nav-item">
                       <a class="nav-link" href="#">Contact</a>
                     </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#vote-head">Eligibility Status</a>
+                    </li>
                   </ul>
                 </div>
               </div>
@@ -172,7 +175,24 @@
               </div>
             </div>
           </section>
-
+<section class="eligibility">
+    <div class="container">
+      <h4 class="sub-text"> Enter Your Age to See Your Eligibility Stats</h4>
+        <input id="age" value="18" type="number"/><br/>
+            <div class="eligible-button">
+              <button onclick="eligible()" class="show-me show-eligible">Can i vote?</button>
+            </div>
+      <p id="eligibility" class="votable"></p>
+      <script>
+            function eligible() { 
+                  var age, votable;
+                  age = document.getElementById("age").value;
+                  votable= (age < 18) ? "You're not Eligible" : "You are Eligible";
+                  document.getElementById("eligibility").innerHTML = votable + " to vote.";
+            }
+      </script>
+    </div>
+</section>
           <section class="section-tell">
             <div class="tell-friend">
               <div class="heading2">
